@@ -8,7 +8,7 @@ From now on Viva Mexico will be know as "app".
 
 
 
-1. PERSONAL INFORMATION COLLECTED
+1. PERSONAL INFORMATION 
 
-No personal information is collected by the app. The app just shows information to the user and it does not contain any additional function than that.
+NO PERSONAL INFORMATION IS COLLECTED BY THE APP. The app just shows information to the user and it does not contain any additional function than that.
 
